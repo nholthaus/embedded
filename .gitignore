@@ -1,3 +1,8 @@
+# Output
+*build*/
+.vscode/
+.idea
+
 # Prerequisites
 *.d
 
